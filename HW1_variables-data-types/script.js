@@ -7,9 +7,9 @@
 // Це коли відбувається автоматична зміна типів данних. Приклад: 666 + '' .
 
 // Завдання №1
-// const name = "Anton";
-// let admin = name;
-// console.log(admin);
+const name = "Anton";
+let admin = name;
+console.log(admin);
 
 // Завдання №2
 // let days = +prompt("Введыть число від 1 до 10:");
